@@ -36,41 +36,6 @@ WebSockets (ws): For real-time communication between the server and players.
 
 Go (Golang): A high-performance, concurrent service dedicated solely to managing and serving the real-time leaderboard.
 
-🚀 Getting Started
-To run this project locally, you will need to have Node.js, Go, and MongoDB installed.
-
-1. Backend Setup
-# Navigate to the backend directory
-cd backend
-
-# Install dependencies
-npm install
-
-# Create a .env file in the root of the /backend folder
-# and add your API keys:
-GEMINI_API_KEY="YOUR_GEMINI_API_KEY"
-
-# Start the Node.js server
-node index.js
-# Your main server will be running on http://localhost:3000
-
-2. Go Microservice Setup
-# Open a new terminal and navigate to the leaderboard directory
-cd backend/leaderboard
-
-# Run the Go service
-go run main.go
-# Your leaderboard service will be running on http://localhost:4000
-
-3. Frontend Setup
-# Open a third terminal and navigate to the frontend directory
-cd frontend
-
-# Install dependencies
-npm install
-
-# Start the React development server
-npm run dev
 
 
 📄 API Endpoints Overview
