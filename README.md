@@ -1,4 +1,4 @@
-# MentAI-
+# Ment-AI
 Welcome to MentiAi a  Real-Time Quiz Platform! This is a full-stack web application that allows admins to create and host live, interactive quizzes for multiple players. It's built with a modern tech stack, featuring a Node.js backend for core logic, a Go microservice for high-performance leaderboard management, and a responsive React frontend.
 
 The standout feature of this project is its polyglot microservice architecture, demonstrating how different technologies can be integrated to handle specific tasks efficiently. It also includes an AI-powered feature that uses the Google Gemini API to generate quiz questions from a simple prompt.
