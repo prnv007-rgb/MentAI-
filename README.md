@@ -38,7 +38,7 @@ Go (Golang): A high-performance, concurrent service dedicated solely to managing
 
 
 
-📄 API Endpoints Overview
+# API Endpoints Overview
 Authentication: /signup, /signin, /client_signup, /client_signin
 
 Admin Actions: /create (question), /start (quiz), /generate-questions (AI)
